@@ -1,5 +1,7 @@
 # Airbnb Price Predictor
 
+This repository contains the code and data for the assignments for INSY 695 - Enterprise Data Science and Machine Learning in Production taught by [Prof. Fatih Nayebi](https://github.com/conqueror). This is a part of the course curriculum for the Master of Management in Analytics (MMA) program at the Desautels Faculty of Management, McGill University.
+
 ## Main Objective
 
 The primary objective of this project is to build a model that can accurately predict the price of an Airbnb listing in Montreal, QC, Canada, with a goal of serving both hosts and guests by providing a data-driven price estimate for a listing. This will help hosts to set a competitive price for their listing and help guests to make an informed decision when booking a listing. This project utilizes regression analysis to predict the price of an Airbnb listing based on various features, along with a causal inference analysis to identify the impact of certain features on the price of a listing.
